@@ -1,4 +1,4 @@
-### Hi, I'm David — I build AI at Wilsch AI Services
+### Hi, I'm David — founder of Eberle AI ÖU, building AI with Wilsch AI Services
 
 We build the AI that **does the doing** — so the people we build it for are free to do the **deciding**, on the loop.
 
@@ -9,5 +9,3 @@ The AI anyone can buy is the easy part. It only works when three things come tog
 **What we're building:** AI-in-a-Box · a Fractional AI Department. Three of us build the AI directly, at Wilsch AI Services.
 
 See what we've shipped → [wilsch-ai.com](https://wilsch-ai.com)
-
-<!-- profile -->
