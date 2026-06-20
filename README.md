@@ -6,6 +6,6 @@ I came to this with no software background and climbed: tooling → architecture
 
 The AI anyone can buy is the easy part. It only works when three things come together — your data, your process, and someone who can judge the result. Push it far enough and you can build an AI to run a whole company.
 
-**What we're building:** AI-in-a-Box · a Fractional AI Department. Three of us build the AI directly, at Wilsch AI Services.
+**What we're building:** AI-in-a-Box · a Fractional AI Department. Three of us build the AI directly, at Wilsch AI Services!
 
 See what we've shipped → [wilsch-ai.com](https://wilsch-ai.com)
