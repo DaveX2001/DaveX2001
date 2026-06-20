@@ -9,3 +9,5 @@ The AI anyone can buy is the easy part. It only works when three things come tog
 **What we're building:** AI-in-a-Box · a Fractional AI Department. Three of us build the AI directly, at Wilsch AI Services.
 
 See what we've shipped → [wilsch-ai.com](https://wilsch-ai.com)
+
+<!-- profile -->
