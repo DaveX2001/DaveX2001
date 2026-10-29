@@ -1,11 +1,11 @@
-### Hi, I'm David — founder of Eberle AI ÖU, building AI with Wilsch AI Services
+### Hi, I'm David — founder of Eberle Vela AI OÜ. I work together with Wilsch AI Services to build AI for companies.
 
-We build the AI that **does the doing** — so the people we build it for are free to do the **deciding**, on the loop.
+We build AI that **does the doing**, so the people we build it for are free to do the **deciding**.
 
-I came to this with no software background and climbed: tooling → architecture → reviewing the AI itself, while the system took the work beneath me. On a given day I run three streams at once — architecture, client delivery, and the internal tooling the team runs on.
+I came to this without a software background and worked my way up: first the tooling, then the architecture, now reviewing what the AI builds, with the AI taking over each step I leave behind. On a given day I work across architecture, client delivery and the tooling we build with.
 
-The AI anyone can buy is the easy part. It only works when three things come together — your data, your process, and someone who can judge the result. Push it far enough and you can build an AI to run a whole company.
+The AI anyone can buy is the easy part. It only works when three things come together: your data, your process, and someone who can judge the result.
 
-**What we're building:** AI-in-a-Box · a Fractional AI Department. Two of us build the AI directly, at Wilsch AI Services!
+**What we offer together:** AI-in-a-Box and a Fractional AI Department. Wilsch AI Services and Eberle Vela AI build it as partners. As a client, you work directly with Marius and me, the two people who build your AI.
 
-See what we've shipped → [wilsch-ai.com](https://wilsch-ai.com)
+Get in touch → [david@eberlevela.com](mailto:david@eberlevela.com)
