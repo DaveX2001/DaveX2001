@@ -1,6 +1,6 @@
-### Hi, I'm David — founder of Eberle Vela AI OÜ. I work together with Wilsch AI Services to build AI for companies.
+### Hi, I'm David — founder of Eberle Vela AI OÜ
 
-We build AI that **does the doing**, so the people we build it for are free to do the **deciding**.
+I build AI that **does the doing**, so the people I build it for are free to do the **deciding**.
 
 I came to this without a software background and worked my way up: first the tooling, then the architecture, now reviewing what the AI builds, with the AI taking over each step I leave behind. On a given day I work across architecture, client delivery and the tooling we build with.
 
